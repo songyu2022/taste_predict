@@ -1,2 +1,2 @@
-# taste_predict
- molecule taste prediction 
+# A Comprehensive Comparative Analysis of Deep Learning Based Feature Representations for Molecular Taste Prediction
+
